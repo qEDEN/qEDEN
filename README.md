@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 ex Discord bot Developer<br>💻 currently learning to develop android games<br>⌨️ i experiment privacy tools <br>Fun Fact : still not used to Github
+🤖 ex Discord bot Developer<br>💻 currently learning to develop android games<br>⌨️ i experiment privacy tools <br>Still not used to Github
 
 
 ## 🌐 Socials:
